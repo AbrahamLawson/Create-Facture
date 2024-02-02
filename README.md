@@ -4,6 +4,6 @@
 
 # bash
 * Copy code
-tsc -w
+* tsc -w
 
 😎☀️
