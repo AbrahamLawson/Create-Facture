@@ -1,4 +1,4 @@
-# Create-Facture
+# Create-Facture-TypeScript
 
 # Lancez-le script TypeScript en utilisant cette commande dans votre terminal :
 
